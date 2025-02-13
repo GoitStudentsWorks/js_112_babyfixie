@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/DevCore16/",
+    "build": "vite build --base=/js_112_babyfixie/",
     "preview": "vite preview"
   },
   "devDependencies": {
